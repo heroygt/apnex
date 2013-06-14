@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Maven: ehcache:ehcache:1.6.1">
+    <CLASSES />
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/ehcache/ehcache/1.6.1/ehcache-1.6.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/ehcache/ehcache/1.6.1/ehcache-1.6.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
